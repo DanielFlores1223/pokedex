@@ -75,6 +75,11 @@ yarn start:dev
 localhost:3000/api/v2/seed
 ```
 
+### Endpoints Documentation
+```
+https://documenter.getpostman.com/view/24255128/2s93Xwyizh
+```
+
 ### STACK
 
 - MongoDB
